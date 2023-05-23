@@ -1,0 +1,3 @@
+D:/Programming/Studia/Piąty semestr/pea-p/Lista3/cmake-build-release/CMakeFiles/Lista3.dir
+D:/Programming/Studia/Piąty semestr/pea-p/Lista3/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/Programming/Studia/Piąty semestr/pea-p/Lista3/cmake-build-release/CMakeFiles/rebuild_cache.dir

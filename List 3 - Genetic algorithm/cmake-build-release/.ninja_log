@@ -1,0 +1,11 @@
+# ninja log v5
+19	739	6964562288081703	CMakeFiles/Lista3.dir/algorithms/Graph.cpp.obj	e5bf3203b511592b
+9	791	6964562288607364	CMakeFiles/Lista3.dir/algorithms/Chromosome.cpp.obj	3e82d98f55fd4fc1
+15	1526	6964562295966419	CMakeFiles/Lista3.dir/algorithms/GeneticAlgorithm.cpp.obj	61dc67d1744757e4
+13	2195	6964562302614623	CMakeFiles/Lista3.dir/main.cpp.obj	f1da886639535bb9
+1	2681	6964562307522259	CMakeFiles/Lista3.dir/utilities/menu.cpp.obj	d476967a1a950bae
+2681	3277	6964562313156946	Lista3.exe	3d509461fc66442b
+3	2658	6964573913534534	CMakeFiles/Lista3.dir/utilities/menu.cpp.obj	d476967a1a950bae
+2658	3297	6964573919597449	Lista3.exe	3d509461fc66442b
+4	1245	6964710423948252	CMakeFiles/Lista3.dir/algorithms/GeneticAlgorithm.cpp.obj	61dc67d1744757e4
+1246	1824	6964710429587080	Lista3.exe	3d509461fc66442b

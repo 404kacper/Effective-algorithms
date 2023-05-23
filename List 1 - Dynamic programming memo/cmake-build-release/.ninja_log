@@ -1,0 +1,5 @@
+# ninja log v5
+7	561	6903052720671017	CMakeFiles/lista1.dir/utilities/AdjacencyMatrix.cpp.obj	ef4259b464ecaef1
+9	358	6903715694109266	CMakeFiles/lista1.dir/algorithms/TspDp.cpp.obj	3f65a93eceffc541
+2	1327	6903719479587716	CMakeFiles/lista1.dir/main.cpp.obj	a068f8ed8abf13dc
+1327	1616	6903719482425239	lista1.exe	b417f3f45a62985c

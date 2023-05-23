@@ -1,0 +1,12 @@
+# ninja log v5
+24	1257	6941455032201036	CMakeFiles/Lista2.dir/algorithms/TS.cpp.obj	9a35fa15b8245801
+6	2678	6941455046454514	CMakeFiles/Lista2.dir/main.cpp.obj	e72f2b41f8701b24
+1922	2111	6941461001891309	Lista2.exe	d06d1e6222db09a2
+1	138	7065425639772371	build.ninja	5ba3224fa1df6282
+3	1922	6941460999993972	CMakeFiles/Lista2.dir/utilities/menu.cpp.obj	7a6767a24dc5dcb5
+18	965	6941455029304855	CMakeFiles/Lista2.dir/algorithms/SA.cpp.obj	b95a4a006a68b9dd
+13	450	7065425679166889	CMakeFiles/Lista2.dir/algorithms/SA.cpp.obj	4f589b2e95a34220
+17	628	7065425680947290	CMakeFiles/Lista2.dir/algorithms/TS.cpp.obj	ce1bf696d15d24f5
+1	1404	7065425688709094	CMakeFiles/Lista2.dir/main.cpp.obj	d79603576f76a4b8
+9	1535	7065425690019393	CMakeFiles/Lista2.dir/utilities/menu.cpp.obj	5a773f8ae7e76cf1
+1535	1856	7065425693189051	Lista2.exe	7911341ab1347aa7

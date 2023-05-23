@@ -1,0 +1,3 @@
+D:/Programming/Studia/Piąty semestr/pea-p/oddane/Lista1/cmake-build-debug/CMakeFiles/lista1.dir
+D:/Programming/Studia/Piąty semestr/pea-p/oddane/Lista1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Studia/Piąty semestr/pea-p/oddane/Lista1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
